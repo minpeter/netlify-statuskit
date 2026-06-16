@@ -4106,9 +4106,9 @@ postcss-place@^4.0.1:
     postcss "^7.0.2"
     postcss-values-parser "^2.0.0"
 
-postcss-preset-env@^6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-6.7.0.tgz#c34ddacf8f902383b35ad1e030f178f4cdf118a5"
+postcss-preset-env@^6.7.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/postcss-preset-env/-/postcss-preset-env-6.7.2.tgz#58792ed25cff5b997b7274b5401a8868dafa1c52"
   dependencies:
     autoprefixer "^9.6.1"
     browserslist "^4.6.4"
